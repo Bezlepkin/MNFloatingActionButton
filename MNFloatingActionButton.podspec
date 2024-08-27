@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'MNFloatingActionButton'
-    s.summary          = ''
+    s.summary          = 'Material Floating action button'
     s.version          = '1.0.0'
     s.homepage         = 'https://github.com/Bezlepkin/MNFloatingActionButton'
     s.license          = 'MIT'
